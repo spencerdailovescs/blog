@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -35,19 +35,14 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 2em;
-    color: grey;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 3em;
 }
 
 ul.posts li {
     list-style: none;
 }
+
+/* stuff for header */
 
 .container {
     position: relative;
