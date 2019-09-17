@@ -54,7 +54,7 @@ ul.posts li {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 3em;
+    font-size: 5em;
     color: white;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
