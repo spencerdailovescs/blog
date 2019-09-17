@@ -8,15 +8,16 @@ nav ul {
     list-style: none;
     font-weight: bold;
     margin: 0 auto;
+    text-align: center;
 }
 nav ul li{
     display: inline;
-    margin: 0 auto;
+    margin-right: 150px;
 }
 
 a {
     text-decoration: none;
-    color: black;
+    color: #999;
 }
 a:hover {
     text-decoration: underline;
