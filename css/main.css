@@ -3,12 +3,19 @@ body {
     width: 70%;
 }
 nav ul {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li{
     display: inline;
     margin-right: 20px;
 }
@@ -28,10 +35,6 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -49,8 +52,6 @@ ul.posts li {
     text-align: center;
     color: white;
 }
-
-/* Centered text */
 .centered {
     position: absolute;
     top: 50%;
@@ -60,3 +61,5 @@ ul.posts li {
     color: white;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+/* end header stuff  */
