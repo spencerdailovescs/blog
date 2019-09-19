@@ -1,0 +1,56 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style: none;
+    font-weight: bold;
+    margin-left = 900px;
+}
+nav ul li{
+    display: inline;
+    margin-right: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+/* for header */
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5em;
+    color: white;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+/* end header stuff  */
