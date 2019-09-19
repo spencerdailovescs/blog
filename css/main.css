@@ -2,6 +2,15 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+footer ul {
+  	position: relative;
+    text-align: center;
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style: none;
+    font-weight: bold;
+}
+
 
 body {
     margin: 60px auto;
