@@ -4,8 +4,9 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    margin: auto;
+    margin: 0;
     padding: 0;
+    z-index: 1000;
 }
 
 footer {
@@ -57,6 +58,7 @@ p {
     position: relative;
     text-align: center;
     color: white;
+    z-index: 500;
 }
 .centered {
     position: absolute;
