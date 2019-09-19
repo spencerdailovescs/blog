@@ -7,13 +7,11 @@ nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
-    margin: 0 auto;
-    position: relative;
-    text-align: center;
+    width: 70%;
+    margin: auto;
 }
 nav ul li{
     display: inline;
-    text-align: center;
     margin-right: 150px;
 }
 
