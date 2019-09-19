@@ -2,17 +2,17 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul {
+ nav ul {
+  	position: relative;
+    text-align: center;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
-    position: relative;
-    text-align: center;
 }
 nav ul li{
     display: inline;
-    margin: 150px;
+    margin: 15px;
 }
 
 a {
