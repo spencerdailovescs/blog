@@ -1,6 +1,7 @@
 header {
     overflow: hidden;
-    background-color: #d6d6d6;
+    background-color: white;
+    border-bottom: 1px solid #d5d5d5;
     position: fixed;
     top: 0;
     width: 100%;
