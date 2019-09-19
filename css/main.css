@@ -13,7 +13,7 @@ nav ul {
 }
 nav ul li{
     display: inline;
-    margin-right: 150px;
+    text-align: center;
 }
 
 a {
