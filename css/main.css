@@ -3,6 +3,11 @@ body {
     width: 70%;
 }
 nav ul {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
