@@ -7,8 +7,8 @@ nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
-    width: 70%;
-    margin: auto;
+    position: relative;
+    text-align: center;
 }
 nav ul li{
     display: inline;
