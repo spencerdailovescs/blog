@@ -12,7 +12,7 @@ nav ul {
 }
 nav ul li{
     display: inline;
-    margin-right: 150px;
+    margin: 150px;
 }
 
 a {
