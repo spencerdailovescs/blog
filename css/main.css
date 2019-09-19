@@ -7,7 +7,7 @@ nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
-    margin: 0 auto;
+    position: relative;
     text-align: center;
 }
 nav ul li{
@@ -25,6 +25,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    position: relative;
     text-align: center;
 }
 p {
