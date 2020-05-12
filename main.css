@@ -1,28 +1,3 @@
-/* *{
-	box-sizing:border-box;
-}
-.main-header {
-	position: fixed;
-	display: flex;
-	justify-content: space-evenly;
-	font-family: 'Helvetica', 'Arial';
-	color: #722626;
-	font-size: 2.5vw;
-	width: 100%;
-	height: 8vw;
-	background-color: #FFFFFF;
-	z-index: 2000;
-	padding-top: 40px;
-	padding-bottom: 20px;
-}
-
-.spacer
-{
-     width: 100%;
-    height: 95px; 
-}
- */
-
 .header {
   padding: 10px 16px;
   background: #555;
@@ -53,6 +28,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
  nav ul {
     margin-left: 0;
     font-size: 2.2em;
